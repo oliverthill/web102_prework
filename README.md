@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/28EYizo.gif' title='web102_walkthrough' width='' alt='web102_walkthrough'/>
+![](https://i.imgur.com/28EYizo.gif)
 
 GIF created with LICEcap
 
