@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![](http://i.imgur.com/28EYizo.gif)
+![web102_prework](http://i.imgur.com/28EYizo.gif)
 
 GIF created with LICEcap
 
